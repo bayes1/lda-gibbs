@@ -1,3 +1,4 @@
-wget https://archive.org/download/Inaugural-Address-Corpus-1789-2009/inaugural.zip
-unzip inaugural.zip
-rm inaugual.zip
+wget http://www.cs.cornell.edu/people/pabo/movie-review-data/scale_whole_review.tar.gz
+tar -xzvf scale_whole_review.tar.gz
+rm scale_whole_review.tar.gz
+rm scaledata.README.1.0.txt
